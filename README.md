@@ -3,7 +3,7 @@ Imagify simplifies your image upload process, does not tire you.
 
 **Installation**
 
-Add  JQuery and Imagify source files.
+Add  JQuery and Imagify source files. (best practice)
 
 ```css
  <link href="https://cdn.jsdelivr.net/gh/soysaltan/imagify@latest/imagify.min.css" rel="stylesheet">
