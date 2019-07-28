@@ -52,7 +52,7 @@ $('#test").imagify({
              	elm.css("background-color","red");  
 });
 ```
- onSuccess: 
+ onSuccess (*elm*,*source*): 
 ------------
 The rendered element has been attributed with **data-src** key
  
@@ -68,7 +68,7 @@ $('#test").imagify({
 elm : The rendered element
 source  : Base64 code of the selected image
 
- onError: 
+ onError (*errorId*): 
 ------------
 Returns the *errorId*  information for the error.
 
