@@ -178,15 +178,15 @@ $('#test").imagify({
 ### Default options  :
 ```javascript
 style: 'border: 1px solid #ccc;',
-minSize: elm.attr('data-min-file-size') || 0,
-maxSize: elm.attr('data-max-file-size') || 1,
+minSize: 0, // MB
+maxSize: 1, // MB
 maxSizeErrorMessage: 'Imagify : Max size error !',
 minSizeErrorMessage: 'Imagify : Min size error !',
 
-maxWidth: elm.attr('data-max-width') || 2000,
-minWidth: elm.attr('data-min-width') || 1,
-maxHeight: elm.attr('data-max-height') || 3000,
-minHeight: elm.attr('data-min-height') || 1,
+maxWidth: 2000, // px
+minWidth: 1, // px
+maxHeight: 3000, //px
+minHeight: 1, //px
 dimensionErrorMessage: 'Imagify : Dimension error',
 
 allowedExt: elm.attr('data-allowed-file-extensions') || 'jpg jpeg png',
