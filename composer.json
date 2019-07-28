@@ -1,1 +1,14 @@
 
+{
+    "name": "soysaltan/imagify",
+    "description": "Imagify image upload simplifier",
+    "authors": [
+        {
+            "name": "Soysal Tan",
+            "email": "soysaltann@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    }
+}
