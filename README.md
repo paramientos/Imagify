@@ -20,12 +20,6 @@ or
 composer require soysaltan/imagify 
 ```
 
-or
-
-```bash
-git clone https://github.com/soysaltan/Imagify.git
-```
-
 ... and you are ready to go.
 
 
