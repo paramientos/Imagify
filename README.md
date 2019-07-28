@@ -31,7 +31,7 @@ $('#test").imagify();
  **onInit** (*elm*): 
 ------------
 
- This event runs the first time the imafigy element is called and and rotates back ***the rendered element* ** itself.
+ This event runs the first time the imafigy element is called and and returns ***the rendered element* ** itself.
  
  *Example*  : 
 * Background color becomes red when the div element is rendered with imagify.
