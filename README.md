@@ -9,7 +9,7 @@ Imagify simplifies your image upload process, does not tire you.
             **minSizeErrorMessage**: 'Imagify : Min size error !',
 
             **maxWidth**: elm.attr('data-max-width') || 2000,
-            minWidth: elm.attr('data-min-width') || 1,
+           **minWidth**: elm.attr('data-min-width') || 1,
             maxHeight: elm.attr('data-max-height') || 3000,
             minHeight: elm.attr('data-min-height') || 1,
             dimensionErrorMessage: 'Imagify : Dimension error',
