@@ -14,6 +14,12 @@ Add  JQuery and Imagify source files.
 <script src="https://cdn.jsdelivr.net/gh/soysaltan/imagify@latest/imagify.min.js"></script>
 ```
 
+or 
+
+```bash
+composer require soysaltan/imagify 
+```
+
 ... and you are ready to go.
 
 
