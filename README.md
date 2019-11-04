@@ -28,7 +28,7 @@ composer require soysaltan/imagify
 ```
 
 ```javascript
-$('#test").imagify();
+$("#test").imagify();
 ```
 
 
